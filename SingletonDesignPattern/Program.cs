@@ -10,6 +10,7 @@ namespace SingletonDesignPattern
     {
         static void Main(string[] args)
         {
+            //singleton design falan
         }
     }
 }
